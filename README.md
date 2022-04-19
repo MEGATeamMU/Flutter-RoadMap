@@ -4,8 +4,8 @@ Mobile Application Development Is One Of The Most Sought-After Fields In The Lab
 It Also Enjoys A Lot Of Diversity Through The Approaches Available To Develop The Application .. We Will Now Learn About What Is The Mobile Operating System And How Does It Work?
 
 ![](https://g.top4top.io/p_2300f32zz1.png)
-###The operating system contains 4 main layers:
-####1- Kernal and Device Driver
+### The operating system contains 4 main layers:
+#### 1- Kernal and Device Driver
 What is meant by it are the operating system definitions to allow you to play audio and image files and all known definitions.. and it is a layer with which neither the user nor the developer interacts.
 
 #### 2- Core OS
