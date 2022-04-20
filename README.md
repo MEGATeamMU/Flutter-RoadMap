@@ -60,3 +60,51 @@ In the native apps, whether it is Android or iOS, the native app code talks to t
 Now, coming to the Flutter apps. Flutter solves the most challenging part of the other cross-platform frameworks, i.e. getting rid of the BRIDGE. Flutter does not use the OEM widgets, it provides its own widgets. Flutter moves the widgets and the renderer from the Platform into the app, which allows them to be customizable and extensible. This also helps Flutter to maintain the consistent 60 FPS.
 
 ------------
+
+### What's Flutter
+- Flutter is defined as the Google’s UI toolkit for building beautiful, natively compiled applications for mobile (Android, iOS ) desktop (Linux, Mac, Windows, Google Fuchsia) and the web from a single codebase.
+- Flutter uses  programming language which was introduced by Google in 2011 and is rarely used by developers. Dart syntax is easy to understand for JavaScript or Java developers as it supports most of the object-oriented concepts.
+
+------------
+### Benefits of Flutter
+![](https://blog.codemagic.io/flutter_tenets_16166160693565645176_hu51183d645e1e2c043b289a2f86dea4da_0_1280x1800_fit_linear_3.png)
+##### - Productivity:
+Since Flutter is cross-platform, you can use the same code base for your iOS and Android app. This can definitely save you both time and resources.
+##### - Performance:
+Dart compiles into native code and there is no need to access OEM widgets as Flutter has its own, this means faster code execution.
+##### - Fast and simple development:
+One of the most lauded features of Flutter is hot reload which allows you to instantly view the changes made in the code on emulators, simulators and hardware in less than a second.
+##### - Compatibility:
+Since widgets are part of the app and not the platform, you’ll likely experience less or no compatibility issues on different OS versions.
+##### - Open-source:
+Both Flutter and Dart are open-source in github and free to use.
+
+------------
+
+This is the beginning of an introduction to what we are coming to now.. You can find out more details [from here](https://blog.codemagic.io/what-is-flutter-benefits-and-limitations// "from here").
+
+# Basics
+## Dev Enviroment
+Here you can choose your preferred dev environment..
+### Offline
+- [Android Studio](https://developer.android.com/studio?gclid=Cj0KCQjw3v6SBhCsARIsACyrRAmw7fH7v8rOu10Z4fFV6P1K_yFC_vIf21dE2mkCR8uLTr41hb51CIMaAmBiEALw_wcB&gclsrc=aw.ds)
+- [VSCode](https://code.visualstudio.com)
+- [Intellij IDEA](https://www.jetbrains.com/idea/)
+
+### Online
+- [Dart Pad](https://dartpad.dev)
+
+## Language
+At first we learn the programming language Dart.. **we learn it perfectly!!**
+Choose one of the next resourses..
++ Arabic Resources
+  + [Code2Start](https://www.youtube.com/watch?v=ZYXol94Lyi0&list=PL3aG1K3LWCrdihgr1PnIrbphTyt3PZwoK)
+  + [Everest Academy](https://www.youtube.com/watch?v=W_INooszMtM&list=PLOFO6BO5XHZZ1aqrtC4J1f_4Pb6YFbF86)
+  + [Wael Abo hamza](https://www.youtube.com/watch?v=kgN7veo9tC0&list=PL93xoMrxRJIsYc9L0XBSaiiuq01JTMQ_o)
+  + [Asem Safaan](https://www.youtube.com/watch?v=HVYlPAw70MU&list=PLMDrOnfT8EAj6Yjdki9OCLSwqdBs4xhQz)
+  + [Mr. Developer](https://www.youtube.com/watch?v=_dAs23kBnPM&list=PL2mK_EczeaCtMH5QB83kfFbi85Y2Xc0tV)
++ English Resourses
+  + [Fluttery](https://www.youtube.com/watch?v=uZvoTCSsfjo&list=PLptHs0ZDJKt_fLp8ImPQVc1obUJKDSQL7)
+  + [Academind](https://www.youtube.com/watch?v=x0uinJvhNxI)  crash-course
+  + [freeCodeCamp.org](https://www.youtube.com/watch?v=Ej_Pcr4uC2Q)  crash-course
+  + [Mike Dane](https://www.youtube.com/watch?v=5xlVP04905w)  crash-course
