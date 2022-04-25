@@ -95,7 +95,7 @@ Here you can choose your preferred dev environment..
 - [Dart Pad](https://dartpad.dev)
 
 ## Language
-At first we learn the programming language Dart.. **we learn it perfectly!!**
+At first we learn the programming language Dart .. **we learn it perfectly!!**
 Choose one of the next resourses..
 + Arabic Resources
   + [Code2Start](https://www.youtube.com/watch?v=ZYXol94Lyi0&list=PL3aG1K3LWCrdihgr1PnIrbphTyt3PZwoK)
@@ -108,3 +108,35 @@ Choose one of the next resourses..
   + [Academind](https://www.youtube.com/watch?v=x0uinJvhNxI)  crash-course
   + [freeCodeCamp.org](https://www.youtube.com/watch?v=Ej_Pcr4uC2Q)  crash-course
   + [Mike Dane](https://www.youtube.com/watch?v=5xlVP04905w)  crash-course
+
+---------------
+
+# Flutter
+You must watch the video [“What are Flutter”](https://www.youtube.com/watch?v=gvAvYwMM5MA&t) before starting any course so that you can understand what is coming next ..
+
+## Everything is a widget ..
+![](https://vitalflux.com/wp-content/uploads/2020/07/widget-animation.gif)
+After you have studied the Dart course, there is an important thing that you must know, which is that filters are a set of widgets that you must know in order to be able to start..
+
++ Arabic Resources
+  + [Code2Start](https://www.youtube.com/watch?v=QdWIE6VFiAM&list=PL3aG1K3LWCrejzY86JLKfjw-hThXYSf_1)
+  + [Eyad Development](https://www.youtube.com/watch?v=t6OZzbFDnYs&list=PLuBL2DYgVDm0ugRCTjNatqDBaf7JP8vc8)
+  + [Wael Abo hamza](https://www.youtube.com/watch?v=qfm-mG-BCJs&list=PL93xoMrxRJItdRumqolHX0UT-LHK8_39N)
+  + [Asem Safaan](https://www.youtube.com/watch?v=hCDX5ttbxnw&list=PLMDrOnfT8EAhsiJwkzspHp_Ob6oRCHxv0)
+  + [Mohamed Saudi](https://www.youtube.com/watch?v=cShqGV13qdo&list=PLoMmMinVeSkud4SURAo6ccR6MduZWTdTq)
++ English Resourses
+  + [The Net Ninja](https://www.youtube.com/watch?v=1ukSR1GRtMU&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ)
+  + [Easy Approach](https://www.youtube.com/watch?v=QwXqNGPaacY&list=PLh7i6AwsWt1s4GFfeBNsU8WiKhOPg1kix)
+  + [freeCodeCamp.org](https://www.youtube.com/watch?v=VPvVD8t02U8)  crash-course
+  + [Academind](https://www.youtube.com/watch?v=x0uinJvhNxI)  crash-course
+  
+## Networking
+After you know about all the widgets in Flutter, you should know what is meant by API and how you can make your application connected to a specific API.. Through the following videos, you will be able to understand what is meant by Networking ..
+
+### What's API
+#### English
+   - [MuleSoft Videos](https://www.youtube.com/watch?v=s7wmiS2mSXY)
+   - [Programming with Mosh](https://www.youtube.com/watch?v=SLwpqD8n3d0)
+#### Arabic
+   - [A-To-Z ForLearning](https://www.youtube.com/watch?v=u5EInXlNfWE)
+   - [Dev Zone](https://www.youtube.com/watch?v=lNOVhs0AGWk)
